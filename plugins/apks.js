@@ -24,6 +24,10 @@ if (Config.WORKTYPE == 'private') {
    Asena.addCommand({pattern: 'nova', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
       await message.sendMessage('💎 *NOVA LAUNCHER* 💎\npremium unlocked .\n📌 bit.ly/drknova');
    }));
+ 
+   Asena.addCommand({pattern: 'song (.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
+      await message.sendMessage('*Extremely Sorry* - ```Song are not available right now due to server issues😞```');
+   }));
 
    Asena.addCommand({pattern: 'cml', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
       await message.sendMessage('💎 *CM LAUNCHER* 💎\npremium unlocked.\n😞 No disponible en este momento.');
