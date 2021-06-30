@@ -74,7 +74,7 @@ if(pattern.test(message.message)){
     );
 }));
 }
-elseif (Config.WORKTYPE == 'public') {
+else if (Config.WORKTYPE == 'public') {
 
 Asena.addCommand({pattern: 'filter ?(.*)', fromMe: true, desc: Lang.FILTER_DESC, dontAddCommandList: true}, (async (message, match) => {
     match = match[1].match(/[\'\"\“](.*?)[\'\"\“]/gsm);
