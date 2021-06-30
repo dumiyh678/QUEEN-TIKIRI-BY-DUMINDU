@@ -92,10 +92,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) | [![lyfe001](https://github.com/lyfe001.png?size=100)](https://github.com/lyfe001) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) | [![lyfe00011](https://github.com/lyfe00011.png?size=100)](https://github.com/lyfe00011) 
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) | [lyfe00011](https://github.com/lyfe00011)
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules | Coder , modifier
   </div>
     
 
